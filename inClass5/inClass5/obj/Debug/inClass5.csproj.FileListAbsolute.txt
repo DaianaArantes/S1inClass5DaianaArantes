@@ -1,0 +1,7 @@
+G:\PROG1781\inClass\inClass5\inClass5\bin\Debug\inClass5.exe.config
+G:\PROG1781\inClass\inClass5\inClass5\bin\Debug\inClass5.exe
+G:\PROG1781\inClass\inClass5\inClass5\bin\Debug\inClass5.pdb
+G:\PROG1781\inClass\inClass5\inClass5\obj\Debug\inClass5.csprojResolveAssemblyReference.cache
+G:\PROG1781\inClass\inClass5\inClass5\obj\Debug\inClass5.csproj.CoreCompileInputs.cache
+G:\PROG1781\inClass\inClass5\inClass5\obj\Debug\inClass5.exe
+G:\PROG1781\inClass\inClass5\inClass5\obj\Debug\inClass5.pdb
